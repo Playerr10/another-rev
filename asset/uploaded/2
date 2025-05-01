@@ -1,0 +1,10 @@
+<roblox xmlns:xmime="http://www.w3.org/2005/05/xmlmime" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.wintes.com/roblox.xsd" version="4">
+	<External>null</External>
+	<External>nil</External>
+	<Item class="ShirtGraphic" referent="RBX22CB9FF065104631AF1D8B4C6D9C3449">
+		<Properties>
+			<Content name="Graphic"><url>http://fleian.xyz/asset/?id=1</url></Content>
+			<string name="Name">Shirt Graphic</string>
+		</Properties>
+	</Item>
+</roblox>
